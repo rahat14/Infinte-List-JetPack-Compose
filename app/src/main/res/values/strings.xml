@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InFinite-List-Jetpack</string>
+    <string name="title_activity_doglist">Dogs</string>
+</resources>
